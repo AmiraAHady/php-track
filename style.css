@@ -3,7 +3,9 @@ h1{
     font-family: fantasy;
 }
 
-
+h2{
+    background-color: chartreuse;
+}
 
 .card{
     width: 250px;
@@ -15,4 +17,9 @@ div{
     background-color: brown;
     color: cyan;
     font-family: fantasy;
+}
+
+.nav{
+    text-align: center;
+    text-decoration: none;
 }
